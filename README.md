@@ -1,4 +1,4 @@
-#Gangsta's Paradise
+# Gangsta's Paradise (Arduino's Version)
 This is the code that I have made for Gangsta's Paradise to be run on Arduino boards.
 This code is based on robsoncouto's work. The musical core is from the youtube channel montechait. 
 
