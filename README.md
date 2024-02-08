@@ -1,9 +1,10 @@
-Gangsta's Paradise
-This code is based on
+#Gangsta's Paradise
+This is the code that I have made for Gangsta's Paradise to be run on Arduino boards.
+This code is based on robsoncouto's work. The musical core is from the youtube channel montechait. 
 
 ## Hardware
 
-Just connect an piezo to the board and you are good to go. Pin 11 is used in every sketch because some piezo speakers can be connected between it and the close GND pin without any wiring. You can use basically any pin, as long  as they can be used as digital pins (pins A6 and A7 of the Arduino Nano and mini are analog only). Just remember to assign the pin number to the `buzzer` variable. 
+Just connect an piezo to the board and you are good to go. Pin 11s is used in every sketch because some piezo speakers can be connected between it and the close GND pin without any wiring. You can use basically any pin, as long  as they can be used as digital pins (pins A6 and A7 of the Arduino Nano and mini are analog only). Just remember to assign the pin number to the `buzzer` variable. 
 
 ![alt tag](hardware.png)
 
